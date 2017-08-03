@@ -6,7 +6,20 @@ img.main {
   float: right;
 }
 
-.column {
+.column1 {
   width: 300px;
   float: left;
+  background: blue;
+}
+
+.column2 {
+  width: 300px;
+  float:left;
+  background: red;
+}
+
+.column3 {
+  width: 300px;
+  float: left;
+  background: green;
 }
